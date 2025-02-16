@@ -5,8 +5,10 @@
 
 ## Tech stack experience:
 - HTML, JS, CSS
+- SQL
 - R
 - Matlab
+- VBA
 
 <!--
 **cjwheatley88/cjwheatley88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
