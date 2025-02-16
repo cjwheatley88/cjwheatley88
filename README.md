@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on: A simplistic web application, with a Gemini (LLM) API interface and low drag backend. 
-- 🌱 I’m currently learning: Data engineering, growth in tech often generates obfuscation in data storage and management across systems. As such; i'd like to learn how to reduce this affect.
+- 🌱 I’m currently learning: Data engineering, growth in tech often generates obfuscation in data; transfer, storage and management, across systems. I'd like to reduce this affect.
 
 ## Tech stack experience:
 - HTML, JS, CSS
