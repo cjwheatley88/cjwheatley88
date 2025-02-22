@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: A simplistic web application, with a Gemini (LLM) API interface and low drag backend. 
 - 🌱 I’m currently learning: Data engineering. Rapid growth in tech adoption has generated obfuscation in data; transfer, storage and management. I'd like to reduce this affect.
 
-## Tech stack experience:
+## Experience:
 - HTML, JS, CSS
 - SQL
 - R
