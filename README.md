@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on:
-  -- A simplistic web application, with a Gemini (LLM) API interface and low drag backend.
-  -- A trivia quiz web application, using react, express and various data storage options. 
+  - A simplistic web application, with a Gemini (LLM) API interface and low drag backend.
+  - A trivia quiz web application, using react, express and various data storage options. 
 - 🌱 I’m currently learning: Data engineering. Rapid growth in tech adoption has generated obfuscation in data; transfer, storage and management. I'd like to reduce this affect.
 
 ## Experience:
